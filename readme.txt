@@ -1,0 +1,5 @@
+THIS IS A TEST SIMPLE MVC FRAMEWORK
+
+AUTHOR : KENNETH DANDAN
+
+EMAIL: dandan.kenneth@gmail.com
